@@ -1,1 +1,0 @@
-SELECT CustomerID, InvoiceDate FROM Invoice WHERE YEAR(InvoiceDate)=2012;
